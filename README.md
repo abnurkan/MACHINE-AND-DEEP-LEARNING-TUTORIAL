@@ -45,7 +45,9 @@ NOTE: you can use the following libraries  for quick EDA
 6. Feature selection
 
 **IV MODEL BUILDING**
+
 **supervised learning**
+
     **regression and classification**
     
     1. **Linear Regression and multiple Regression**   
