@@ -45,9 +45,49 @@ NOTE: you can use the following libraries  for quick EDA
 6. Feature selection
 
 **IV MODEL BUILDING**
+### **supervised learning**
+    **regression and classification**
+    
+    1. **Linear Regression and multiple Regression**   
+    2. **Logistic Regression**
+    3. **Decision Tree**
+    4. **K-nearest neighbour**
+    5. **SVM**
+       
+**Hyperparameter Tunning**
 
-**V MODEL DEPLOYMENT** 
+**ensemble Techniques**
+
+- bagging(bootstrap aggregator)-random forest
+- boosting-xgboosting,adaboost
+- weighted average
+- stacking
+**cross validation**
+### unsupervised  
+- **clustering**
+      - K-means
+      - hierarchical
+      - DBscan
+      - Gaussian Mixture Models (GMM)
+
+- **Association**
+    - Apriori Algorithm
+    - Eclat Algorithm
+    - FP-Growth (Frequent Pattern Growth)
+
+- **PCA**
+    - t-Distributed Stochastic Neighbor Embedding (t-SNE)
+    - Linear Discriminant Analysis (LDA)
+    - Autoencoders
+
+
 
   
-  
+
+
+
+  NOTE: to get dataset
+  - kaggle
+  - paperswithcode
+  - 
   
