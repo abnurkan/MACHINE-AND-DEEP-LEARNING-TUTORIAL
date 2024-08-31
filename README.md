@@ -1,5 +1,7 @@
 # MACHINE-AND-DEEP-LEARNING-TUTORIAL
 
+**EDA and Feature Engineering**
+
 - EDA is about understanding the data, while **Feature Engineering** is about transforming and improving the data for modeling.
 - EDA focuses on analysis and insight, whereas **Feature Engineering** focuses on preparation and transformation.
 - EDA is typically performed before Feature Engineering but the insights gained during EDA often guide the feature engineering process.
