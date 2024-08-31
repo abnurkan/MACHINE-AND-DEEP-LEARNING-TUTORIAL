@@ -5,7 +5,7 @@
 
     -**OHE variables with amny labels**
     -**count frequency**
-    -*ordinal encoding*
+    -**ordinal encoding**
    
 2. **Techniques for Handling Missing Values**
 3. **Transformation: Scaling and Normalization**
