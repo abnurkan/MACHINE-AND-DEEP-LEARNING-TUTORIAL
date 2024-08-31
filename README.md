@@ -64,7 +64,9 @@ NOTE: you can use the following libraries  for quick EDA
 - boosting-xgboosting,adaboost
 - weighted average
 - stacking
-**cross validation**
+  
+**cross validation and its types**
+
 ### unsupervised  
 - **clustering**
     - K-means
