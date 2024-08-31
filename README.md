@@ -48,7 +48,7 @@ NOTE: you can use the following libraries  for quick EDA
 
 **supervised learning**
 
-    **regression and classification**
+**regression and classification**
     
     1. **Linear Regression and multiple Regression**   
     2. **Logistic Regression**
