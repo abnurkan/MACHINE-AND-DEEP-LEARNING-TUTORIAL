@@ -15,7 +15,15 @@
 5. Cardinality of Categorical Variables
 6. Outliers
 7. Relationship between independent and dependent feature(SalePrice)
-
+NOTE: you can use the following libraries  for quick EDA
+- vizplot
+- D-tale
+- pandas profiling
+- sweetviz
+- autoviz
+- dataprep
+- lux
+- klib
 
 **II FEATURE ENGINEERING**
 #### In feature engineering We will handle what we Find out or understand from EDA using the  below stuff
