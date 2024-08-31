@@ -15,6 +15,7 @@
 5. Cardinality of Categorical Variables
 6. Outliers
 7. Relationship between independent and dependent feature(SalePrice)
+   
 NOTE: you can use the following libraries  for quick EDA
 - vizplot
 - D-tale
