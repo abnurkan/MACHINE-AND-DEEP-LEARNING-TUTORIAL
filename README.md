@@ -1,5 +1,8 @@
 # MACHINE-AND-DEEP-LEARNING-TUTORIAL
-**FEATURE ENGINEERING**
+**I EXPLOTARY DATA ANALYSIS (EDA)**
+
+
+**II FEATURE ENGINEERING**
 
 1. **Encoding Techniques**
 
@@ -11,8 +14,12 @@
 3. **Transformation: Scaling and Normalization**
 4. **Handling Imbalanced Data**
 5. **Handling Outliers**
-6. **Feature Selection**
-7. **Exploratory Data Analysis (EDA)**
+   
+**III FEATURE SELECTION**
+6. Feature selection
+
+**IV MODEL BUILDING**
+**V MODEL DEPLOYMENT** 
 
   
   
