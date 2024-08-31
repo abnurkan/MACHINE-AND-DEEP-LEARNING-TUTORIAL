@@ -67,10 +67,10 @@ NOTE: you can use the following libraries  for quick EDA
 **cross validation**
 ### unsupervised  
 - **clustering**
-      - K-means
-      - hierarchical
-      - DBscan
-      - Gaussian Mixture Models (GMM)
+    - K-means
+    - hierarchical
+    - DBscan
+    - Gaussian Mixture Models (GMM)
 
 - **Association**
     - Apriori Algorithm
