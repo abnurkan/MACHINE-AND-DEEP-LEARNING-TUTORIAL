@@ -7,6 +7,14 @@
 - EDA is typically performed before Feature Engineering but the insights gained during EDA often guide the feature engineering process.
 
 **I EXPLOTARY DATA ANALYSIS (EDA)**
+#### In Data Analysis We will Analyze To Find out the below stuff
+1. Missing Values
+2. All The Numerical Variables
+3. Distribution of the Numerical Variables
+4. Categorical Variables
+5. Cardinality of Categorical Variables
+6. Outliers
+7. Relationship between independent and dependent feature(SalePrice)
 
 
 **II FEATURE ENGINEERING**
